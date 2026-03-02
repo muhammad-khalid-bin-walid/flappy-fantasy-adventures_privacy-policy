@@ -2,7 +2,7 @@
 **Flappy Fantasy Adventures**  
 **Last Updated: March 2, 2026**
 
-Flappy Fantasy Adventures ("the Game") is a mobile game developed by Zarmin Industries.
+Flappy Fantasy Adventures ("the Game") is a mobile game developed by Zarm Industries.
 
 We are committed to protecting your privacy. This Privacy Policy explains what information (if any) we collect, how it is handled, and your related rights.
 
@@ -57,4 +57,4 @@ If you have any questions, concerns, or requests regarding this Privacy Policy o
 
 By downloading, installing, or using Flappy Fantasy Adventures, you acknowledge that you have read, understood, and agree to this Privacy Policy.
 
-© 2026 Zarmin Industries. All rights reserved.
+© 2026 Zarm Industries. All rights reserved.
